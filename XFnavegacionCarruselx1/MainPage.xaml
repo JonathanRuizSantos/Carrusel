@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<CarouselPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="XFnavegacionCarruselx1.MainPage">
+
+    <ContentPage>
+      <StackLayout>
+            <Label Text="Página 1" HorizontalOptions="Center"/>
+            <ImageButton Source="gato.png" Aspect="Fill" HorizontalOptions="Center" Clicked="btgato"/>
+        </StackLayout>
+    </ContentPage>
+    <ContentPage>
+        <StackLayout>
+            <Label Text="Página 2" HorizontalOptions="Center"/>
+            <ImageButton Source="gallo.png" Aspect="Fill" HorizontalOptions="Center" Clicked="btgallo"/>
+        </StackLayout>
+    </ContentPage>
+    <ContentPage>
+        <StackLayout>
+            <Label Text="Página 3" HorizontalOptions="Center"/>
+            <ImageButton Source="ganso.jpg" Aspect="Fill" HorizontalOptions="Center" Clicked="btganso"/>
+        </StackLayout>
+    </ContentPage>
+    <ContentPage>
+        <StackLayout>
+            <Label Text="Página 3" HorizontalOptions="Center"/>
+            <ImageButton Source="alas.png" Aspect="Fill" HorizontalOptions="Center" Clicked="btalas"/>
+        </StackLayout>
+    </ContentPage>
+</CarouselPage>

@@ -1,0 +1,1 @@
+C:\CURSO_2022_2\CursoLinea2022_2\MisPracticas\XFaml\XFnavegacionCarruselx1\XFnavegacionCarruselx1.UWP\XFnavegacionCarruselx1.UWP.csproj;x64
